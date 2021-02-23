@@ -4,7 +4,7 @@
 title: Contrasting Centralized and Decentralized Critics in Multi-Agent Reinforcement
   Learning
 subtitle: ''
-summary: ''
+summary: 'We prove and test that centralized critic and decentralized critic in multi-agent learning is asymptotically equivalent. We also provide bias-variance trade-off analysis and empirical advice.'
 authors:
 - Xueguang Lyu
 - Yuchen Xiao
