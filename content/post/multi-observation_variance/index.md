@@ -3,7 +3,7 @@
 
 title: "Centralized Critic: Multi-Observation Variance"
 subtitle: ""
-summary: ""
+summary: "This blog gives a toy example called Guess Game, explaining Multi-Observation Variance (MOV) in our work on Centralized Critic."
 authors: []
 tags: []
 categories: []
