@@ -4,7 +4,7 @@
 title: "Install OpenAI Gym with Atari on macOS"
 subtitle: ""
 summary: ""
-authors: [Xueguang Lyu]
+authors: []
 tags: []
 categories: ["environment setup"]
 date: 2018-09-23T13:46:11-05:00

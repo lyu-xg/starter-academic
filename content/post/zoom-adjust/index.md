@@ -4,7 +4,7 @@
 title: "How can you remove the transcription side panel in Zoom Recordings"
 subtitle: ""
 summary: "View zoom recording without distraction"
-authors: [Xueguang Lyu]
+authors: []
 tags: []
 categories: []
 date: 2020-11-13T13:51:09-05:00
