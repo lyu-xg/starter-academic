@@ -30,7 +30,7 @@ education:
   - course: MS in Computer Science
     institution: Northeastern University
     year: 2018
-  - course: BS in Informatic
+  - course: BS in Informatics
     institution: University of California, Irvine
     year: 2016
 
