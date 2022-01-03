@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "lyu-2022-a.pdf"
 url_code:
 url_dataset:
 url_poster:
