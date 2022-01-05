@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "lyu-2022-a.pdf"
+url_pdf: "https://arxiv.org/pdf/2201.01221.pdf"
 url_code:
 url_dataset:
 url_poster:
