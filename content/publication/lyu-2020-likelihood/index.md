@@ -34,8 +34,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-02-23T17:48:02.259137Z'
-# publication_types:
-# - '1'
+publication_types:
+- '1'
 abstract: "When multiple agents learn in a decentralized manner, the environment appears non-stationary from the perspective of an individual agent due to the exploration and learning of the other agents. Recently proposed deep multi-agent reinforcement learning methods have tried to mitigate this non-stationarity by attempting to determine which samples are from other agent exploration or suboptimality and take them less into account during learning. Based on the same philosophy, this paper introduces a decentralized quantile estimator, which aims to improve performance by distinguishing non-stationary samples based on the likelihood of returns. In particular, each agent considers the likelihood that other agent exploration and policy changes are occurring, essentially utilizing the agents' own estimations to weigh the learning rate that should be applied towards the given samples. We introduce a formal method of calculating differences of our return distribution representations and methods for utilizing it to guide updates. We also explore the effect of risk-seeking strategies for adjusting learning over time and propose adaptive risk distortion functions which guides risk sensitivity. Our experiments, on traditional benchmarks and new domains, show our methods are more stable, sample efficient and more likely to converge to a joint optimal policy than previous methods."
 
 
