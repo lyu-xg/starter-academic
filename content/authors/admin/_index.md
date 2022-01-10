@@ -6,7 +6,7 @@ title: Xueguang Lyu
 superuser: true
 
 # Role/position/tagline
-role: CS Ph.D. Student
+role: CS Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
