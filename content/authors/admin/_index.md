@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-Xueguang Lyu (吕雪广) is a second year CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University, advised by [Christopher Amato](https://www.khoury.northeastern.edu/people/chris-amato/).
+Xueguang Lyu (吕雪广) is a third year CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University, advised by [Christopher Amato](https://www.khoury.northeastern.edu/people/chris-amato/).
 Xueguang's research interests include reinforcement learning, artificial intelligence, and multi-agent system.
 
 Xueguang is interested in enabling effective multi-agent exploration and cooperation in game-theoritic simulations as well as in real-world tasks.
