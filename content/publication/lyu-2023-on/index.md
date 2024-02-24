@@ -41,7 +41,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2201.01221.pdf"
+url_pdf: "https://www.jair.org/index.php/jair/article/view/14386/26932"
 url_code:
 url_dataset:
 url_poster:
