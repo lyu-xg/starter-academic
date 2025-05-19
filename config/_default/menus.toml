@@ -39,3 +39,8 @@ weight = 60
 name = "CV"
 url = "media/cv.pdf"
 weight = 70
+
+[[main]]
+name = "Research Statement"
+url = "media/research_statement.pdf"
+weight = 80
