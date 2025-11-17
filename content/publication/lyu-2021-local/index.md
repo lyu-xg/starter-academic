@@ -7,7 +7,7 @@ authors:
 - Xueguang Lyu
 - Christopher Amato
 date: 2021-11-04T16:25:00-05:00
-doi: ""
+doi: "10.1109/MRS50823.2021.9620607"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-11-04T16:25:00-05:00
