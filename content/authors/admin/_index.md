@@ -20,13 +20,14 @@ bio: My research interests include reinforcement learning and multi-agent cooper
 interests:
 - Reinforcement Learning
 - Mulit-agent System
+- Robotics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
     institution: Northeastern University
-    year: in progress
+    year: 2025
   - course: MS in Computer Science
     institution: Northeastern University
     year: 2018
@@ -69,10 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-Xueguang Lyu (吕雪广) is a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University, advised by [Christopher Amato](https://www.khoury.northeastern.edu/people/chris-amato/).
-Xueguang's research interests include reinforcement learning, artificial intelligence, and multi-agent system.
+Xueguang Lyu (吕雪广) is a postdoctoral researcher at Institute for [Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), working with [Gao, Yang](https://yang-gao.weebly.com/).
+Previously, he obtained his Ph.D. at Khoury College of Computer Sciences of Northeastern University, advised by [Christopher Amato](https://www.khoury.northeastern.edu/people/chris-amato/).
+Xueguang's research interests include reinforcement learning, robotics, and multi-agent system.
 
 Xueguang is interested in enabling effective multi-agent exploration and cooperation in game-theoritic simulations as well as in real-world tasks.
-His recent work focuses on analyzing multi-agent actor-critic methods in centralized training settings, and utilizing centralized training to learn decentralized cooperating policies.
+His recent work focuses on analyzing multi-agent methods in centralized training settings,
+and utilizing centralized training to learn decentralized cooperating policies.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

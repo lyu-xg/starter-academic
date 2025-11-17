@@ -3,7 +3,7 @@
 
 title: "Install OpenAI Gym with Atari on macOS"
 subtitle: ""
-summary: ""
+summary: "Quick guide to installing OpenAI Gym with Atari environments on macOS using brew and pip."
 authors: []
 tags: []
 categories: ["environment setup"]
